@@ -134,10 +134,6 @@ header {
 .products-container{
   margin-top: 1rem;
 }
-.products-header-container{
-  justify-content: space-between;
-  align-items: center;
-}
 
 .category-list{
   display: flex;
@@ -234,4 +230,10 @@ header {
   .product-list-container .single-product-container{
     width: 32%;
   }
+  .products-header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
 }

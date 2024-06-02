@@ -71,7 +71,7 @@ export default function Products({ products, failedUrls, title }: IProps) {
         </div>
       )}
       <div className="container col-container products-container">
-        <div className="container row-container products-header-container">
+        <div className="container products-header-container">
         <h3>{title}</h3>
           <Input
             placeholder="search product by name"
