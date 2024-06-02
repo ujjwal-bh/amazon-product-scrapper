@@ -126,3 +126,7 @@ Testing was not implemented in this project due to time constraints.
   
 - **Deployment:**
   Prepare Docker configurations for containerized deployment and set up CI/CD pipelines for automated testing and deployment.
+
+
+## Some Glimpses
+![alt text](<Screenshot from 2024-06-02 21-44-34.png>) ![alt text](<Screenshot from 2024-06-02 21-45-31.png>) ![alt text](<Screenshot from 2024-06-02 21-45-39.png>)
